@@ -19,4 +19,4 @@ variables:
 
   # For pipeline reference
   resource_group: default_resource_group
-  aml_workspace: intelligent_reporting
+  aml_workspace: sodhi_machine_learning
